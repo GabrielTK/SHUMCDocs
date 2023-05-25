@@ -15,7 +15,7 @@
   * [🔨 Recommended Mods](fundamentals/joining-instructions/recommended-mods.md)
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-  * [Setting up a Town](http://localhost:5000/s/TXXX9Z2niKcNTTLg12La/guides/towns/setting-up-a-town#basic-town-setup)
+  * [Setting up a Town](guides/towns/setting-up-a-town.md)
 * [☀ Weather](fundamentals/weather/README.md)
   * [🌋 Natural Disasters](fundamentals/weather/natural-disasters.md)
   * [🌻 Spring](fundamentals/weather/spring.md)
